@@ -15,10 +15,6 @@ Simple and lightweight car item script for FiveM.
 ## 🎥 Preview
 - https://streamable.com/wynj6l
 
-## ⚠️ Credits
-This project is a fork / edited version based on the original work by the creator of **ykaa_itemcar**.  
-Big credits to the original developer for the base idea and foundation.
-
 ## 📥 Installation
 1. Download or clone the resource
 2. Place it inside your `resources` folder
